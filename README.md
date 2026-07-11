@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nehal</h1>
 <h3 align="center">A passionate developer and Also have an Interest in AI and Ml from India</h3>
 
-- 🔭 I’m currently working on **Ai Agents**
+- 🔭 I’m currently working on **DSA**
 
 - 🌱 I’m currently learning **Python Frameworks like Numpy and Pandas**
 
-- 🤝 I’m looking for help with **making Ai agents**
+- 🤝 I’m looking for help with **Learning System Design**
 
 -You can check my Portfolio - https://personal-site-ochre-five-92.vercel.app/ 
 
@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [linkedin.com/in/md-nehal-khurshid-a2151b304](linkedin.com/in/md-nehal-khurshid-a2151b304)
 
-- ⚡ Fun fact **I do jokes , by the way I'm A lazy person .**
+- ⚡ Fun fact **Just MEET ME **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
